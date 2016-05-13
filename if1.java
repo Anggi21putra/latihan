@@ -4,7 +4,7 @@ public static void main(String args[]){
 
 Byte nilai = 90;
 if(nilai > 80)
-System.out.println("Selamat Anda Lulus");
+System.out.println("Selamat Anda Lulus, dengan Cum Lauuuddeeeeee.... di biyayain lansung S2 ke Togo...");
 System.out.println("dengan Nilai: "+nilai);
 }
 }
