@@ -1,0 +1,4 @@
+masuk directori, misal D:
+cd *paste Alamat directori
+javac *nama file java.java
+java *nama file , tanpa .java
