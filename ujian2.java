@@ -29,7 +29,7 @@ public class ujian2{
 	
 	
 	if (total >=80){
-		System.out.println("Selamat anda lulus dengan grade anda A");		
+		System.out.println("Selamat anda lulus dengan grade anda A, mantafff");		
 		}
 	else if (total >=70){
 		System.out.println("Selamat anda lulus dengan grade anda B");

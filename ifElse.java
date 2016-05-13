@@ -25,12 +25,12 @@ System.out.println("Salah");
 nilai = new Byte(nilaiString);
 
 if(nilai >=80){
-System.out.println("Selamat Anda Lulus");
+System.out.println("Selamat Anda Lulus, Anton bangga sama Kamu");
 System.out.print("Dengan Nilai : ");
 System.out.println(""+nilai+"!!!");
 }
 else{
-System.out.println("Anda Tidak Lulus");
+System.out.println("Anda Tidak Lulus, coba lagi aja lah");
 System.out.print("karena nilai anda : ");
 System.out.println(""+nilai+"!!!");
 }
